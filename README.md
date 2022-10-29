@@ -1,3 +1,10 @@
+# Responsive Images
+This fork is a student's assingnment of Adi Purdila's Understanding Responsive Images. The original assignment's readme can be viewed below.
+
+The favicon icon was generated from [Favicon.io](https://favicon.io)
+
+The clamp() used for the font size was sourced from [Open Props](https://open-props.style/)
+
 ### Tuts+ Open Assignment: Understanding Responsive Images
 #### Instructor: Adi Purdila
 
